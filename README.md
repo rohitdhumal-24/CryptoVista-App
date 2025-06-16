@@ -93,7 +93,7 @@ CryptoVista offers users a secure and responsive environment to:
 
 ### 📊 Portfolio View
 
-![Portfolio](./screenshots/Portfilio.png)
+![Portfolio](Portfilio.png)
 
 ---
 
