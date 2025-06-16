@@ -73,27 +73,27 @@ CryptoVista offers users a secure and responsive environment to:
 
 ### 🧾 Signup Page
 
-![Signup](./screenshots/signup.png)
+![Signup](signup.png)
 
 ### 🔐 Login Page
 
-![Login](./screenshots/login.png)
+![Login](login.png)
 
 ### 🏠 Home Page (Dashboard)
 
-![Home](./screenshots/home.png)
+![Home](Home.png)
 
 ### 🛠️ Features Panel
 
-![Features](./screenshots/features.png)
+![Features](features.png)
 
 ### 👛 Wallet Page
 
-![Wallet](./screenshots/wallet.png)
+![Wallet](wallet.png)
 
 ### 📊 Portfolio View
 
-![Portfolio](./screenshots/portfolio.png)
+![Portfolio](./screenshots/Portfolio.png)
 
 ---
 
